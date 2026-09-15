@@ -8,7 +8,7 @@ The main challenge was to coordinate demand, availability, production, documenta
 ## 📊 Data Used
 This repository uses a combination of synthetic data and normalized parameters derived from a real professional case.
 * Export program value: ~USD 37M.
-* 120 international freight containers.
+* 128 international freight containers.
 * Scheduled demand and deliveries by period.
 * Production and dispatch capacity.
 * Available inventory and requirements.
